@@ -1,0 +1,12 @@
+1. open app in browser using following link: https://ags-dei.herokuapp.com
+2. choose excel file.
+3. press upload excel button.
+4. once file is uploaded, choose method and press calculate button.
+5. press dowload result button to get generated result file.
+6. Grade chart is simply a graphical reprentation of garde count.
+
+PS: format of input sheet is predefined.(see sample excel sheet)
+
+
+
+
